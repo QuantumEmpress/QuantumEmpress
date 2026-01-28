@@ -1,4 +1,4 @@
-<!-- Custom Design: The Unique Architect -->
+<!-- Custom Design: The Thoughtful Engineer -->
 
 <!-- Custom Local Header -->
 <div align="center">
@@ -7,8 +7,8 @@
 
 <div align="center">
 
-<!-- Typing SVG: Confident, Rare, Precision -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=I+engineer+solutions+others+haven't+thought+of.;Precision.+Quality.+Inevitability.;Building+the+Future.+Today." alt="Typing SVG" /></a>
+<!-- Typing SVG: Professional, Problem Solver, Learner -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=500&size=26&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=Software+should+be+intuitive,+robust,+and+fast.;I+turn+complex+problems+into+clean+code.;Always+learning.+Always+building." alt="Typing SVG" /></a>
 
 <br/>
 
@@ -25,17 +25,17 @@
 
 <br/>
 
-## 💎 The Rare Specification (About Me)
+## 🧭 My Approach (About Me)
 
-I don't just write code; I craft systems. My focus is on absolute clarity, scalability, and an interface that feels like magic. I operate where technical excellence meets rare aesthetic sensibility.
+I believe code is a tool to solve human problems. My goal isn't just to write lines of code, but to create software that is **reliable, maintainable, and meaningful**. I approach every project with curiosity and a dedication to quality.
 
-*   **Signature**: Seamless logic wrapped in premium design.
-*   **Method**: Ruthless elimination of the unnecessary.
-*   **Goal**: Software that stands the test of time.
+*   **Mindset**: I value clarity over complexity.
+*   **Focus**: Building scalable backends and intuitive frontends that work seamlessly together.
+*   **Why Me?**: I take ownership of what I build, from the first architecture diagram to the final deployment.
 
 <br/>
 
-## 🛠️ The Workbench
+## 🛠️ Technology & Tools
 
 <div align="center">
 
@@ -46,33 +46,33 @@ I don't just write code; I craft systems. My focus is on absolute clarity, scala
 <br/>
 
 <!-- Badges -->
-![React](https://img.shields.io/badge/REACT-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
 <br/>
 
-## 🏆 Proof of Work
+## 📁 Selected Work
 
 ### 🌩️ AWeather App
-*> Atmospheric Intelligence.*
-A responsive, real-time weather interface that shifts with the elements.
-**Tech**: React Native, OpenWeatherMap, Glassmorphism
+*> Real-time accurate forecasting.*
+A focus on user interface and API efficiency. I wanted to build a weather app that feels natural to use.
+**Core Tech**: React Native, OpenWeatherMap API
 
 ### 🤫 Hushtag
-*> Voice Without Identity.*
-The premiere network for anonymous connection. Expression without judgment.
-**Tech**: React, Java, MongoDB Atlas
+*> Secure, anonymous communication.*
+Built to explore data privacy and real-time database architecture. A platform where users can share freely.
+**Core Tech**: React, Java, MongoDB Atlas
 
 ### 🏋️ Fitness Tracker (The Iron Log)
-*> Performance Quantified.*
-A complete biometric monitoring system for serious athletes.
-**Tech**: Spring Boot, React, MongoDB, JWT
+*> Tracking progress, ensuring results.*
+A full-stack application tackling authentication, CRUD operations, and data visualization.
+**Core Tech**: Spring Boot, React, MongoDB, JWT Security
 
 <br/>
 
