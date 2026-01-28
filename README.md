@@ -1,38 +1,46 @@
-<!-- Burgandy Theme: Confident & Rare -->
-<!-- Header: Deep Burgundy Gradient -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=800020&height=320&section=header&text=QuantumEmpress&fontSize=85&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Architect%20%7C%20Building%20the%20Rare%20%26%20Unique&descAlignY=60&descSize=20)
+<!-- Custom Design: The Unique Architect -->
+
+<!-- Custom Local Header -->
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="QuantumEmpress Header" />
+</div>
 
 <div align="center">
 
-<!-- Typing SVG: Clean & High-Value -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=990033&center=true&vCenter=true&width=600&lines=I+build+what+others+imagine.;Precision.+Quality.+Impact.;Frontend.+Backend.+Complete." alt="Typing SVG" /></a>
+<!-- Typing SVG: Confident, Rare, Precision -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&pause=1000&color=800020&center=true&vCenter=true&width=800&lines=I+engineer+solutions+others+haven't+thought+of.;Precision.+Quality.+Inevitability.;Building+the+Future.+Today." alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Socials -->
+<!-- Socials - using custom separator -->
 <a href="https://github.com/QuantumEmpress">
   <img src="https://img.shields.io/badge/GITHUB-800020?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+<br/>
+<br/>
+<img src="assets/separator.svg" width="100%" alt="separator" />
+
 </div>
 
 <br/>
 
-## �️ A Rare Breed (About Me)
+## 💎 The Rare Specification (About Me)
 
-I operate where technical capability meets exceptional design. My work isn't just about code; it's about solving problems with a level of polish that is hard to find. I don't follow trends—I set my own standard of quality.
+I don't just write code; I craft systems. My focus is on absolute clarity, scalability, and an interface that feels like magic. I operate where technical excellence meets rare aesthetic sensibility.
 
-*   **My Signature**: Clean architecture, seamless scalability, and intuitive UX.
-*   **My Code**: Documented, tested, and built to last.
-*   **My Goal**: To build software that feels inevitable.
+*   **Signature**: Seamless logic wrapped in premium design.
+*   **Method**: Ruthless elimination of the unnecessary.
+*   **Goal**: Software that stands the test of time.
 
 <br/>
 
-## 🛠️ The Toolset
+## 🛠️ The Workbench
 
 <div align="center">
 
-<!-- Skills Graph with Burgundy/Red Theme -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumEmpress&layout=compact&theme=blood&hide_border=true&title_color=800020" height="160" alt="languages" />
+<!-- Skills Graph in Burgundy -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumEmpress&layout=compact&theme=blood&hide_border=true&title_color=800020&text_color=999" height="160" alt="languages" />
 
 <br/>
 <br/>
@@ -49,42 +57,48 @@ I operate where technical capability meets exceptional design. My work isn't jus
 
 <br/>
 
-## 🏆 Featured Work
+## 🏆 Proof of Work
 
 ### 🌩️ AWeather App
-*Atmospheric intelligence.*
-A sleek, real-time weather application that adapts its interface to the elements.
-**Tech**: React Native, OpenWeatherMap API, Glassmorphism UI
+*> Atmospheric Intelligence.*
+A responsive, real-time weather interface that shifts with the elements.
+**Tech**: React Native, OpenWeatherMap, Glassmorphism
 
 ### 🤫 Hushtag
-*Voice without identity.*
-A mobile social network for anonymous connection. Pure expression, zero judgment.
+*> Voice Without Identity.*
+The premiere network for anonymous connection. Expression without judgment.
 **Tech**: React, Java, MongoDB Atlas
 
-### 🏋️ Fitness Tracker
-*The Iron Log.*
-A comprehensive biometric system for serious performance monitoring.
-**Tech**: Spring Boot, React, MongoDB, JWT Security
+### 🏋️ Fitness Tracker (The Iron Log)
+*> Performance Quantified.*
+A complete biometric monitoring system for serious athletes.
+**Tech**: Spring Boot, React, MongoDB, JWT
 
 <br/>
 
-## 🧩 Contribution Graph
+## 🧩 Visual History
 
-<!-- Snake Animation: Points to the raw file in the output branch. Note: This assumes the GitHub Action has run successfully. -->
+<div align="center">
+<img src="assets/separator.svg" width="100%" alt="separator" />
+<br/>
+
+<!-- Snake Animation - Local Reference -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QuantumEmpress/QuantumEmpress/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QuantumEmpress/QuantumEmpress/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QuantumEmpress/QuantumEmpress/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/QuantumEmpress/QuantumEmpress/raw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/QuantumEmpress/QuantumEmpress/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/QuantumEmpress/QuantumEmpress/raw/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
 
 <br/>
 
 ## 📊 Status
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=QuantumEmpress&show_icons=true&theme=blood&hide_border=true&count_private=true&title_color=800020&icon_color=800020" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=QuantumEmpress&show_icons=true&theme=blood&hide_border=true&count_private=true&title_color=800020&icon_color=800020&text_color=999" height="150" alt="stats" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=100&section=footer" width="100%">
+  <img src="assets/separator.svg" width="100%" alt="separator" />
 </div>

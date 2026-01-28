@@ -1,0 +1,40 @@
+<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="burgundyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4a0012;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#800020;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c000b;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;700&amp;display=swap');
+      .title { font-family: 'Outfit', sans-serif; font-weight: 700; font-size: 60px; fill: white; opacity: 0; animation: slideIn 1.5s ease-out forwards; }
+      .subtitle { font-family: 'Outfit', sans-serif; font-weight: 300; font-size: 22px; fill: #ffb3c1; opacity: 0; animation: slideIn 1.5s ease-out 0.5s forwards; letter-spacing: 4px; }
+      .line { stroke: #ffb3c1; stroke-width: 2; stroke-dasharray: 800; stroke-dashoffset: 800; animation: drawLine 2s ease-out 1s forwards; }
+      
+      @keyframes slideIn {
+        from { transform: translateY(20px); opacity: 0; }
+        to { transform: translateY(0); opacity: 1; }
+      }
+      @keyframes drawLine {
+        to { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#burgundyGradient)" rx="15" />
+  
+  <!-- Content -->
+  <g transform="translate(400, 100)" text-anchor="middle">
+    <text x="0" y="0" class="title" filter="url(#glow)">QuantumEmpress</text>
+    <line x1="-300" y1="30" x2="300" y2="30" class="line" />
+    <text x="0" y="70" class="subtitle">ARCHITECT OF THE UNIQUE</text>
+  </g>
+</svg>
