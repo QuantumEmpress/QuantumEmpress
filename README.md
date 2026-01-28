@@ -61,16 +61,19 @@ I believe code is a tool to solve human problems. My goal isn't just to write li
 
 ### 🌩️ AWeather App
 *> Real-time accurate forecasting.*
+[**View Code**](https://github.com/QuantumEmpress) <!-- Add repo link -->
 A focus on user interface and API efficiency. I wanted to build a weather app that feels natural to use.
 **Core Tech**: React Native, OpenWeatherMap API
 
 ### 🤫 Hushtag
 *> Secure, anonymous communication.*
+[**View Code**](https://github.com/QuantumEmpress) <!-- Add repo link -->
 Built to explore data privacy and real-time database architecture. A platform where users can share freely.
 **Core Tech**: React, Java, MongoDB Atlas
 
 ### 🏋️ Fitness Tracker (The Iron Log)
 *> Tracking progress, ensuring results.*
+[**View Code**](https://github.com/QuantumEmpress) <!-- Add repo link -->
 A full-stack application tackling authentication, CRUD operations, and data visualization.
 **Core Tech**: Spring Boot, React, MongoDB, JWT Security
 
@@ -96,9 +99,15 @@ A full-stack application tackling authentication, CRUD operations, and data visu
 ## 📊 Status
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=QuantumEmpress&show_icons=true&theme=blood&hide_border=true&count_private=true&title_color=800020&icon_color=800020&text_color=999" height="150" alt="stats" />
+<!-- Fixed Stats URL: Removed private count to ensure public visibility -->
+<img src="https://github-readme-stats.vercel.app/api?username=QuantumEmpress&show_icons=true&theme=blood&hide_border=true&title_color=800020&icon_color=800020&text_color=999&rank_icon=github" height="150" alt="stats" />
 </div>
 
 <div align="center">
   <img src="assets/separator.svg" width="100%" alt="separator" />
+  <br/>
+  <br/>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Connect_With_Me-800020?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
