@@ -1,144 +1,77 @@
-<!-- Animated Header using SVG -->
-<div align="center">
-  
-<!-- Subtle animated typing effect using SVG -->
-<svg width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 42px;
-      font-weight: 600;
-      fill: #24292f;
-      letter-spacing: -0.5px;
-    }
-    .subtitle { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 16px;
-      fill: #57606a;
-      letter-spacing: 0.5px;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    .fade { animation: fadeIn 2s ease-in; }
-  </style>
-  <text x="50%" y="45" text-anchor="middle" class="title fade">QuantumEmpress</text>
-  <text x="50%" y="75" text-anchor="middle" class="subtitle fade">Software Developer</text>
-</svg>
+<!-- Header with sophisticated wave design -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=QuantumEmpress&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Builder%20%7C%20Visionary&descAlignY=55&descSize=20)
 
-<!-- Minimal divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="500">
+<div align="center">
+
+<!-- Typing effect for dynamic intro -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=35CD66&center=true&vCenter=true&width=500&lines=I+build+apps+that+matter.;Clarity.+Usability.+Structure.;Mobile+%26+Web+Innovator." alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social & Contact (Placeholder for user to fill if they want) -->
+<a href="https://github.com/QuantumEmpress">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+I am a software developer focused on crafting **sophisticated**, **user-centric** applications. I don't just write code; I design experiences. My approach connects technical precision with visual elegance.
+
+> *"Code is poetry written for machines to inspire humans."*
+
+<br/>
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 </div>
 
-<br>
+<br/>
 
-## About
+## 🚀 Featured Projects
 
-I build apps and websites with a focus on clarity, usability, and clean structure. I value thoughtful design decisions and code that's easy to maintain.
+### 🌩️ AWeather App
+*Atmospheric intelligence, reimagined.*
+A sleek, real-time weather application providing hyper-local forecasts with a stunning dynamic interface.
+- **Tech**: React Native, OpenWeatherMap API, Glassmorphism UI
+- **Key Feature**: Dynamic background adaptation based on live weather conditions.
 
-Currently learning through real projects and exploring what makes software feel right to use.
-
-<br>
-
-<!-- Subtle section divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400">
-</div>
-
-<br>
-
-## How I Work
-
-**Clarity over cleverness** — Code should communicate intent clearly  
-**Structure first** — Good architecture makes everything easier later  
-**Iterative improvement** — Ship, learn, refine  
-**User-focused** — If it's confusing to use, it's not done  
-
-<br>
-
-<!-- Subtle section divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400">
-</div>
-
-<br>
-
-## Tech Stack
-
-<!-- Clean, organized tech icons -->
-<div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-<!-- Subtle section divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400">
-</div>
-
-<br>
-
-## Featured Projects
-
-### 🏋️ Fitness Tracker
-A full-stack web application for tracking workouts, setting goals, and monitoring progress.  
-**Stack:** React, Spring Boot, MongoDB, JWT Authentication  
-**Focus:** Clean architecture, user experience, data visualization
+### 🤫 Hushtag
+*Voice without identity.*
+A mobile anonymous social network allowing users to share thoughts and connect without the pressure of a persona.
+- **Tech**: Flutter, Firebase, Cloud Functions
+- **Key Feature**: End-to-end anonymity and ephemeral content streams.
 
 ### 🎬 CineSearch
-Movie discovery app with real-time search and detailed information.  
-**Stack:** React, OMDB API, Modern CSS  
-**Focus:** Responsive design, API integration, performance optimization
+*Discover cinema.*
+An immersive movie discovery engine.
+- **Tech**: React, Modern CSS, REST API
+- **Key Feature**: High-performance search with instant visual feedback.
 
-### 🧮 Calculator
-Clean, functional calculator with modern UI.  
-**Stack:** HTML, CSS, JavaScript  
-**Focus:** User interface design, interaction patterns
+<br/>
 
-<br>
+## 📊 Engineering Metrics
 
-<!-- Subtle section divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="400">
+
+<img src="https://github-readme-stats.vercel.app/api?username=QuantumEmpress&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumEmpress&layout=compact&theme=radical&hide_border=true" height="150" alt="languages" />
+
 </div>
 
-<br>
+<br/>
 
-<!-- Animated footer wave -->
 <div align="center">
-  
-<svg width="600" height="60" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .footer-text { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      font-size: 14px;
-      fill: #57606a;
-    }
-    @keyframes wave {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-5px); }
-    }
-    .wave { animation: wave 3s ease-in-out infinite; }
-  </style>
-  <text x="50%" y="30" text-anchor="middle" class="footer-text wave">Building with intention</text>
-</svg>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
